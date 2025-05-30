@@ -22,7 +22,7 @@ PROJECT_ID="your-project-id"
 ```
 
 with your actual GCP project ID.
-Save and exit (Press CTRL+O, Enter, then CTRL+X).
+Save and exit (Press CTRL+X, then Y and finally Enter).
 
 ## 4. Make the script executable
 ```bash
